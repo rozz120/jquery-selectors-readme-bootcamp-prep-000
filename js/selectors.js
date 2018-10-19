@@ -18,3 +18,4 @@ function divSelector(){
 function firstListItem(){
   return $('div ul:first-child')
 }
+$('#baby-ninja')
