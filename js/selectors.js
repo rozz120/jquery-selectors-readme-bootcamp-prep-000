@@ -1,5 +1,3 @@
 function paragraphSelector(){
-  $('p')
-  return 'p'
-  
+  return $('img')
 }
